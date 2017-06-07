@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NABMANAGE</string>
+
+    <string-array name="locations">
+        <item>NABARD Nagar, Kandivali</item>
+        <item>KVS, Dadar</item>
+        <item>NABARD Park, Santacruz</item>
+        <item>NABARD House, BKC</item>
+        <item>Nestle II, Bombay Dyeing Complex, Dadar</item>
+        <item>NABARD QUARTERS, Ghatkopar</item>
+    </string-array>
+
+    <string name="kandivali">NABARD Nagar, Kandivali</string>
+    <string name="dadar">KVS, Dadar</string>
+    <string name="nestle">Nestle II, Bombay Dyeing Complex, Dadar</string>
+    <string name="santacruz">NABARD Park, Santacruz</string>
+    <string name="bkc">NABARD House, BKC</string>
+    <string name="ghatkopar">NABARD QUARTERS, Ghatkopar</string>
+
+    <string name="title_activity_start_page">StartPage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
